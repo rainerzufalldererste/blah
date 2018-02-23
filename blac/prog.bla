@@ -1,0 +1,54 @@
+﻿// Main function.
+0()
+{
+  varbit i = 0pllrll;
+  varbit j = 0xAF01A4;
+  varbit k = 1045;
+  varbit a = get(i);
+  varbit b = get(0xAFAFAFAFAFAFAFAFAF);
+
+  3bit x = 110;
+  3bit y = 010;
+  3bit z = 001;
+
+  num p = 255;
+  num q = 0xFF;
+  num r = 0x1000;
+  num s = 0b100;
+
+  varbit v = cast(x);
+  3bit l = cast(v);
+  num n = cast(k);
+}
+
+1()
+{
+  3bit a = 010;
+  3bit b = 101 + a;
+
+  varbit c = 130 * 0x123 + c;
+
+  num c_ = cast(c);
+  num a_ = cast(a);
+  num n = 1234 * c_ + a_;
+
+  set(c, 0x10101);
+  set(0b0010011100110, c);
+
+  push(101, c);
+  varbit m = pull(101);
+
+  varbit x = get(c);
+}
+
+545()
+{
+  varbit abc;
+  abc = 0prrrrll;
+  abc = abc + abc;
+  abc;
+  a;
+  varbit a = 3;
+  here a;
+  here abc;
+}
